@@ -1,0 +1,687 @@
+{
+  "Sword": [
+    {
+      "name": "Dull Blade",
+      "code_name": "Blunt",
+      "rarity": 1
+    },
+    {
+      "name": "Silver Sword",
+      "code_name": "Silver",
+      "rarity": 2
+    },
+    {
+      "name": "Cool Steel",
+      "code_name": "Steel",
+      "rarity": 3
+    },
+    {
+      "name": "Harbringer of Dawn",
+      "code_name": "Dawn",
+      "rarity": 3
+    },
+    {
+      "name": "Traveler's Handy Sword",
+      "code_name": "Traveler",
+      "rarity": 3
+    },
+    {
+      "name": "Dark Iron Sword",
+      "code_name": "Darker",
+      "rarity": 3
+    },
+    {
+      "name": "Fillet Blade",
+      "code_name": "Sashimi",
+      "rarity": 3
+    },
+    {
+      "name": "Skyrider Sword",
+      "code_name": "Mitsurugi",
+      "rarity": 3
+    },
+    {
+      "name": "Favonius Sword",
+      "code_name": "Zephyrus",
+      "rarity": 4
+    },
+    {
+      "name": "The Flute",
+      "code_name": "Troupe",
+      "rarity": 4
+    },
+    {
+      "name": "Sacrificial Sword",
+      "code_name": "Fossil",
+      "rarity": 4
+    },
+    {
+      "name": "Royal Longsword",
+      "code_name": "Theocrat",
+      "rarity": 4
+    },
+    {
+      "name": "Lion's Roar",
+      "code_name": "Rockkiller",
+      "rarity": 4
+    },
+    {
+      "name": "Prototype Rancour",
+      "code_name": "Proto",
+      "rarity": 4
+    },
+    {
+      "name": "Iron Sting",
+      "code_name": "Exotic",
+      "rarity": 4
+    },
+    {
+      "name": "Blackcliff Longsword",
+      "code_name": "Blackrock",
+      "rarity": 4
+    },
+    {
+      "name": "The Black Sword",
+      "code_name": "Bloodstained",
+      "rarity": 4
+    },
+    {
+      "name": "The Alley Flash",
+      "code_name": "Outlaw",
+      "rarity": 4
+    },
+    {
+      "name": "Sword of Descension",
+      "code_name": "Psalmus",
+      "rarity": 4
+    },
+    {
+      "name": "Festering Desire",
+      "code_name": "Magnum",
+      "rarity": 4
+    },
+    {
+      "name": "Amenoma Kageuchi",
+      "code_name": "Bakufu",
+      "rarity": 4
+    },
+    {
+      "name": "Cinnabar Spindle",
+      "code_name": "Opus",
+      "rarity": 4
+    },
+    {
+      "name": "Aquila Favonia",
+      "code_name": "Falcon",
+      "rarity": 5
+    },
+    {
+      "name": "Skyward Blade",
+      "code_name": "Dvalin",
+      "rarity": 5
+    },
+    {
+      "name": "Freedom-Sworn",
+      "code_name": "Widsith",
+      "rarity": 5
+    },
+    {
+      "name": "Summit Shaper",
+      "code_name": "Kunwu",
+      "rarity": 5
+    },
+    {
+      "name": "Primordial Jade Cutter",
+      "code_name": "Morax",
+      "rarity": 5
+    },
+    {
+      "name": "Mistsplitter Reforged",
+      "code_name": "Narukami",
+      "rarity": 5
+    },
+    {
+      "name": "Haran Geppaku Futsu",
+      "code_name": "Amenoma",
+      "rarity": 5
+    }
+  ],
+  "Claymore": [
+    {
+      "name": "Waster Greatsword",
+      "code_name": "Aniki",
+      "rarity": 1
+    },
+    {
+      "name": "Old Merc's Pal",
+      "code_name": "Oyaji",
+      "rarity": 2
+    },
+    {
+      "name": "Ferrous Shadow",
+      "code_name": "Glaive",
+      "rarity": 3
+    },
+    {
+      "name": "Bloodstained Greatsword",
+      "code_name": "Siegfry",
+      "rarity": 3
+    },
+    {
+      "name": "White Iron Greatsword",
+      "code_name": "Tin",
+      "rarity": 3
+    },
+    {
+      "name": "Debate Club",
+      "code_name": "Reasoning",
+      "rarity": 3
+    },
+    {
+      "name": "Skyrider Greatsword",
+      "code_name": "Mitsurugi",
+      "rarity": 3
+    },
+    {
+      "name": "Favonius Greatsword",
+      "code_name": "Zephyrus",
+      "rarity": 4
+    },
+    {
+      "name": "The Bell",
+      "code_name": "Troupe",
+      "rarity": 4
+    },
+    {
+      "name": "Sacrificial Greatsword",
+      "code_name": "Fossil",
+      "rarity": 4
+    },
+    {
+      "name": "Royal Greatsword",
+      "code_name": "Theocrat",
+      "rarity": 4
+    },
+    {
+      "name": "Rainslasher",
+      "code_name": "Perdue",
+      "rarity": 4
+    },
+    {
+      "name": "Prototype Archaic",
+      "code_name": "Proto",
+      "rarity": 4
+    },
+    {
+      "name": "Whiteblind",
+      "code_name": "Exotic",
+      "rarity": 4
+    },
+    {
+      "name": "Backcliff Slasher",
+      "code_name": "Blackrock",
+      "rarity": 4
+    },
+    {
+      "name": "Serpent Spine",
+      "code_name": "Kione",
+      "rarity": 4
+    },
+    {
+      "name": "Lithic Blade",
+      "code_name": "Lapis",
+      "rarity": 4
+    },
+    {
+      "name": "Snow-Tombed Starsilver",
+      "code_name": "Dragonfell",
+      "rarity": 4
+    },
+    {
+      "name": "Luxurious Sea-Lord",
+      "code_name": "MillenniaTuna",
+      "rarity": 4
+    },
+    {
+      "name": "Katsuragikiri Nagamasa",
+      "code_name": "Bakufu",
+      "rarity": 4
+    },
+    {
+      "name": "Akuoumaru",
+      "code_name": "Maria",
+      "rarity": 4
+    },
+    {
+      "name": "Skyward Pride",
+      "code_name": "Dvalin",
+      "rarity": 5
+    },
+    {
+      "name": "Wolf's Gravestone",
+      "code_name": "Wolfmound",
+      "rarity": 5
+    },
+    {
+      "name": "Song of Broken Pines",
+      "code_name": "Widsith",
+      "rarity": 5
+    },
+    {
+      "name": "The Unforged",
+      "code_name": "Kunwu",
+      "rarity": 5
+    },
+    {
+      "name": "Primordial Jade Greatsword",
+      "code_name": "Morax",
+      "rarity": 5
+    },
+    {
+      "name": "Redhorn Stonethresher",
+      "code_name": "Itadorimaru",
+      "rarity": 5
+    }
+  ],
+  "Pole": [
+    {
+      "name": "Beginner's Protector",
+      "code_name": "Gewalt",
+      "rarity": 1
+    },
+    {
+      "name": "Iron Point",
+      "code_name": "Rod",
+      "rarity": 2
+    },
+    {
+      "name": "White Tassel",
+      "code_name": "Ruby",
+      "rarity": 3
+    },
+    {
+      "name": "Halberd",
+      "code_name": "Halberd",
+      "rarity": 3
+    },
+    {
+      "name": "Black Tassel",
+      "code_name": "Noire",
+      "rarity": 3
+    },
+    {
+      "name": "Dragon's Bane",
+      "code_name": "Stardust",
+      "rarity": 4
+    },
+    {
+      "name": "Prototype Starglitter",
+      "code_name": "Proto",
+      "rarity": 4
+    },
+    {
+      "name": "Crescent Pike",
+      "code_name": "Exotic",
+      "rarity": 4
+    },
+    {
+      "name": "Blackcliff Pole",
+      "code_name": "Blackrock",
+      "rarity": 4
+    },
+    {
+      "name": "Deathmatch",
+      "code_name": "Gladiator",
+      "rarity": 4
+    },
+    {
+      "name": "Lithic Spear",
+      "code_name": "Lapis",
+      "rarity": 4
+    },
+    {
+      "name": "Favonius Lance",
+      "code_name": "Zephyrus",
+      "rarity": 4
+    },
+    {
+      "name": "Royal Spear",
+      "code_name": "Theocrat",
+      "rarity": 4
+    },
+    {
+      "name": "Dragonspine Spear",
+      "code_name": "Everfrost",
+      "rarity": 4
+    },
+    {
+      "name": "Kitain Cross Spear",
+      "code_name": "Bakufu",
+      "rarity": 4
+    },
+    {
+      "name": "The Catch",
+      "code_name": "Mori",
+      "rarity": 4
+    },
+    {
+      "name": "Wavebreaker's Fin",
+      "code_name": "Maria",
+      "rarity": 4
+    },
+    {
+      "name": "Staff of Homa",
+      "code_name": "Homa",
+      "rarity": 5
+    },
+    {
+      "name": "Skyward Spine",
+      "code_name": "Dvalin",
+      "rarity": 5
+    },
+    {
+      "name": "Vortex Vanquisher",
+      "code_name": "Kunwu",
+      "rarity": 5
+    },
+    {
+      "name": "Primordial Jade Winged-Spear",
+      "code_name": "Morax",
+      "rarity": 5
+    },
+    {
+      "name": "Calamity Queller",
+      "code_name": "Santika",
+      "rarity": 5
+    },
+    {
+      "name": "Engulfing Lightning",
+      "code_name": "Narukami",
+      "rarity": 5
+    }
+  ],
+  "Catalyst": [
+    {
+      "name": "Apprentice's Notes",
+      "code_name": "Apprentice",
+      "rarity": 1
+    },
+    {
+      "name": "Pocket Grimoire",
+      "code_name": "Pocket",
+      "rarity": 2
+    },
+    {
+      "name": "Magic Guide",
+      "code_name": "Intro",
+      "rarity": 3
+    },
+    {
+      "name": "Thrilling Tales of Dragon Slayers",
+      "code_name": "Pulpfic",
+      "rarity": 3
+    },
+    {
+      "name": "Otherworldly Story",
+      "code_name": "Lightnov",
+      "rarity": 3
+    },
+    {
+      "name": "Emerald Orb",
+      "code_name": "Jade",
+      "rarity": 3
+    },
+    {
+      "name": "Twin Nephrite",
+      "code_name": "Phoney",
+      "rarity": 3
+    },
+    {
+      "name": "Favonius Codex",
+      "code_name": "Zephyrus",
+      "rarity": 4
+    },
+    {
+      "name": "The Widsith",
+      "code_name": "Troupe",
+      "rarity": 4
+    },
+    {
+      "name": "Sacrificial Fragments",
+      "code_name": "Fossil",
+      "rarity": 4
+    },
+    {
+      "name": "Royal Grimoire",
+      "code_name": "Theocrat",
+      "rarity": 4
+    },
+    {
+      "name": "Solar Pearl",
+      "code_name": "Resurrection",
+      "rarity": 4
+    },
+    {
+      "name": "Prototype Amber",
+      "code_name": "Proto",
+      "rarity": 4
+    },
+    {
+      "name": "Mappa Mare",
+      "code_name": "Exotic",
+      "rarity": 4
+    },
+    {
+      "name": "Blackcliff Agate",
+      "code_name": "Blackrock",
+      "rarity": 4
+    },
+    {
+      "name": "Eye of Perception",
+      "code_name": "Truelens",
+      "rarity": 4
+    },
+    {
+      "name": "Wine and Song",
+      "code_name": "Outlaw",
+      "rarity": 4
+    },
+    {
+      "name": "Frostbearer",
+      "code_name": "Everfrost",
+      "rarity": 4
+    },
+    {
+      "name": "Dodoco Tales",
+      "code_name": "Ludiharpastum",
+      "rarity": 4
+    },
+    {
+      "name": "Hakushin Ring",
+      "code_name": "Bakufu",
+      "rarity": 4
+    },
+    {
+      "name": "Oathsworn Eye",
+      "code_name": "Jyanome",
+      "rarity": 4
+    },
+    {
+      "name": "Skyward Atlas",
+      "code_name": "Dvalin",
+      "rarity": 5
+    },
+    {
+      "name": "Lost Prayer to the Sacred Winds",
+      "code_name": "Fourwinds",
+      "rarity": 5
+    },
+    {
+      "name": "Memory of Dust",
+      "code_name": "Kunwu",
+      "rarity": 5
+    },
+    {
+      "name": "Primordial Jade Regalia",
+      "code_name": "Morax",
+      "rarity": 5
+    },
+    {
+      "name": "Everlasting Moonglow",
+      "code_name": "Kaleido",
+      "rarity": 5
+    },
+    {
+      "name": "Kagura's Verity",
+      "code_name": "Narukami",
+      "rarity": 5
+    }
+  ],
+  "Bow": [
+    {
+      "name": "Hunter's Bow",
+      "code_name": "Hunters",
+      "rarity": 1
+    },
+    {
+      "name": "Seasoned Hunter's Bow",
+      "code_name": "Old",
+      "rarity": 2
+    },
+    {
+      "name": "Raven Bow",
+      "code_name": "Crowfeather",
+      "rarity": 3
+    },
+    {
+      "name": "Sharpshooter's Oath",
+      "code_name": "Arjuna",
+      "rarity": 3
+    },
+    {
+      "name": "Recurve Bow",
+      "code_name": "Curve",
+      "rarity": 3
+    },
+    {
+      "name": "Slingshot",
+      "code_name": "Sling",
+      "rarity": 3
+    },
+    {
+      "name": "Messenger",
+      "code_name": "Msg",
+      "rarity": 3
+    },
+    {
+      "name": "Favonius Warbow",
+      "code_name": "Zephyrus",
+      "rarity": 4
+    },
+    {
+      "name": "The Stringless",
+      "code_name": "Troupe",
+      "rarity": 4
+    },
+    {
+      "name": "Sacrificial Bow",
+      "code_name": "Fossil",
+      "rarity": 4
+    },
+    {
+      "name": "Royal Bow",
+      "code_name": "Theocrat",
+      "rarity": 4
+    },
+    {
+      "name": "Rust",
+      "code_name": "Recluse",
+      "rarity": 4
+    },
+    {
+      "name": "Prototype Crescent",
+      "code_name": "Proto",
+      "rarity": 4
+    },
+    {
+      "name": "Compound Bow",
+      "code_name": "Exotic",
+      "rarity": 4
+    },
+    {
+      "name": "Blackcliff Warbow",
+      "code_name": "Blackrock",
+      "rarity": 4
+    },
+    {
+      "name": "The Viridescent Hunt",
+      "code_name": "Viridescent",
+      "rarity": 4
+    },
+    {
+      "name": "Alley Hunter",
+      "code_name": "Outlaw",
+      "rarity": 4
+    },
+    {
+      "name": "Mitternachts Waltz",
+      "code_name": "Nachtblind",
+      "rarity": 4
+    },
+    {
+      "name": "Windblume Ode",
+      "code_name": "Fleurfair",
+      "rarity": 4
+    },
+    {
+      "name": "Hamayumi",
+      "code_name": "Bakufu",
+      "rarity": 4
+    },
+    {
+      "name": "Predator",
+      "code_name": "Predator",
+      "rarity": 4
+    },
+    {
+      "name": "Mouun's Moon",
+      "code_name": "Maria",
+      "rarity": 4
+    },
+    {
+      "name": "Skyward Harp",
+      "code_name": "Dvalin",
+      "rarity": 5
+    },
+    {
+      "name": "Amo's Bow",
+      "code_name": "Amos",
+      "rarity": 5
+    },
+    {
+      "name": "Elegy for the End",
+      "code_name": "Widsith",
+      "rarity": 5
+    },
+    {
+      "name": "Kunwu's Wyrmbane",
+      "code_name": "Kunwu",
+      "rarity": 5
+    },
+    {
+      "name": "Primordial Jade Vista",
+      "code_name": "Morax",
+      "rarity": 5
+    },
+    {
+      "name": "Polar Star",
+      "code_name": "Worldbane",
+      "rarity": 5
+    },
+    {
+      "name": "Thundering Pulse",
+      "code_name": "Narukami",
+      "rarity": 5
+    }
+  ]
+}

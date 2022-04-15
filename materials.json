@@ -1,0 +1,376 @@
+{
+  "Common": [
+    {
+      "name": "Slime Condensate",
+      "file": "4d1b59eae58fe40af57a4c9be9e9f1e7"
+    },
+    {
+      "name": "Slime Secretions",
+      "file": "1aa7e70c18c1ae7791ff3f0c71d83e93"
+    },
+    {
+      "name": "Slime Concentrate",
+      "file": "53ba05fd9f8882f9b99d13bbadbd69cb"
+    },
+    {
+      "name": "Damaged Mask",
+      "file": "842749c3f0c03475152cf72374aa02b3"
+    },
+    {
+      "name": "Stained Mask",
+      "file": "7f5270b984a9f8de79828884601d1bc3"
+    },
+    {
+      "name": "Ominous Mask",
+      "file": "0d5fd311aa8365596142991e93b4f9b1"
+    },
+    {
+      "name": "Divining Scroll",
+      "file": "0e4e79b8dc041d4abe07dec7b786f862"
+    },
+    {
+      "name": "Sealed Scroll",
+      "file": "17b7000d413d3c1e3b532a7fa9b94591"
+    },
+    {
+      "name": "Forbidden Curse Scroll",
+      "file": "6c1aad2a5e8d27645d7075a02c60d276"
+    },
+    {
+      "name": "Firm Arrowhead",
+      "file": "16488d1001405a625d90fcaf98556f80"
+    },
+    {
+      "name": "Sharp Arrowhead",
+      "file": "79208ad34a816742c7ba0d7cbdd09c67"
+    },
+    {
+      "name": "Weathered Arrowhead",
+      "file": "c45b4d048e28431f48f3e655a9c42779"
+    },
+    {
+      "name": "Heavy Horn",
+      "file": "f2ecdac3c753f6285e6c21270c586901"
+    },
+    {
+      "name": "Black Bronze Horn",
+      "file": "094fd94dc0abfeea65be8267b4fd43a8"
+    },
+    {
+      "name": "Black Crystal Horn",
+      "file": "aa7236122d7e20848ad039f93d43dda4"
+    },
+    {
+      "name": "Dead Ley Line Branch",
+      "file": "2c4ff9a8daa83e230ae2e4a2c85bbaa9"
+    },
+    {
+      "name": "Dead Ley Line Leaves",
+      "file": "dfdcaca20647c09a7fa0765a5f9160dd"
+    },
+    {
+      "name": "Ley Line Sprout",
+      "file": "f47dca13ea2f1ef7e47c2528025bd68b"
+    },
+    {
+      "name": "Chaos Device",
+      "file": "581b4c814a01090c4074de7e35b721d6"
+    },
+    {
+      "name": "Chaos Circuit",
+      "file": "7b3e4cf36907aa6469b337a4c1f45fbd"
+    },
+    {
+      "name": "Chaos Core",
+      "file": "d8b717258918b987468f7d97daa5c322"
+    },
+    {
+      "name": "Mist Grass Pollen",
+      "file": "1256d00f773b4cc9d90a9410ca734e7d"
+    },
+    {
+      "name": "Mist Grass",
+      "file": "b1bc4480e9d7d231b18f5143da544d46"
+    },
+    {
+      "name": "Mist Grass Wick",
+      "file": "9f55e9241a3b1c76119ae9caf9d7bdb7"
+    },
+    {
+      "name": "Hunter's Sacrificial Knife",
+      "file": "256ffddb9d757dd68b21a268ea79eb9d"
+    },
+    {
+      "name": "Agent's Sacrificial Knife",
+      "file": "387a284eece9a9a9986edb126df0bb62"
+    },
+    {
+      "name": "Inspector's Sacrificial Knife",
+      "file": "ff96846621bff7e4e5286fbd8426725f"
+    },
+    {
+      "name": "Recruit's Insignia",
+      "file": "d389e2e6a0d176e940a466f7f103e9e7"
+    },
+    {
+      "name": "Sergeant's Insignia",
+      "file": "1b94d7ac4ec0c5c0f9be11bd6e861077"
+    },
+    {
+      "name": "Lieutenant's Insignia",
+      "file": "7b35a1afb4b5e70e138969199879c331"
+    },
+    {
+      "name": "Treasure Hoarder Insignia",
+      "file": "950d6211dbc48e1c40cfde8db7b8b098"
+    },
+    {
+      "name": "Silver Raven Insignia",
+      "file": "c81f3bd0e78c41993ba7ded91ebee062"
+    },
+    {
+      "name": "Golden Raven Insignia",
+      "file": "8505f9ab812bbe7a96399d4bb1c6f3a0"
+    },
+    {
+      "name": "Whopperflower Nectar",
+      "file": "c51a5c3c4800ef3ce67d682c85fb66f0"
+    },
+    {
+      "name": "Shimmering Nectar",
+      "file": "053db650af63b264a0f164d753f0fd84"
+    },
+    {
+      "name": "Energy Nectar",
+      "file": "70b8865d2fb7dfe6681d3ba30974db3b"
+    },
+    {
+      "name": "Fragile Bone Shard",
+      "file": "8dcb7ec1be67765bc6d08a127d62a40e"
+    },
+    {
+      "name": "Sturdy Bone Shard",
+      "file": "b681aa2b56c6c7b7cca085beb0bd13f8"
+    },
+    {
+      "name": "Fossilized Bone Shard",
+      "file": "bb888f9740f30c4d467798fb90fda889"
+    },
+    {
+      "name": "Old Handguard",
+      "file": "db60799a66e6a060463e0cc75a66120e"
+    },
+    {
+      "name": "Kageuchi Handguard",
+      "file": "bf96171301a92a0cf7b1300200146b7c"
+    },
+    {
+      "name": "Famed Handguard",
+      "file": "21b1d2920988cad87856de1993d32c9e"
+    },
+    {
+      "name": "Chaos Gear",
+      "file": "a4c4d2db0404d5480fb9cb7539eac9f3"
+    },
+    {
+      "name": "Chaos Axis",
+      "file": "8495d02f5fef5aa605dd18791d1fe9c9"
+    },
+    {
+      "name": "Chaos Oculus",
+      "file": "d2a704d2f016ad31c55e2cd41162dde1"
+    },
+    {
+      "name": "Dismal Prism",
+      "file": "ec5a8a89c866bc712292247168022cd9"
+    },
+    {
+      "name": "Crystal Prism",
+      "file": "f0cf7cc97b5298af9f078a9f169c5545"
+    },
+    {
+      "name": "Polarizing Prism",
+      "file": "8e25de1b9b1a36445e7c457b3fb0f4a1"
+    },
+    {
+      "name": "Spectral Husk",
+      "file": "88f8cd9663485f0ff5b61a1791f91e91"
+    },
+    {
+      "name": "Spectral Heart",
+      "file": "bf0c2666a6ce62884550ec69edf8ee13"
+    },
+    {
+      "name": "Spectral Nucleus",
+      "file": "08c9c64ab11fb9a15acb3ecaa8d0932e"
+    },
+    {
+      "name": "Concealed Claw",
+      "file": "489332d74e3085f3621ab7ecf1539782"
+    },
+    {
+      "name": "Concealed Unguis",
+      "file": "69ed956c28f7af152bf09bd35492add6"
+    },
+    {
+      "name": "Concealed Talon",
+      "file": "5ab7117d8b66040dc6a443c5225a6b1e"
+    },
+    {
+      "name": "Gloomy Statuette",
+      "file": "2908e54c8f52cee28875df27e5698ab9"
+    },
+    {
+      "name": "Dark Statuette",
+      "file": "f87397e76cc6ce50b8e63effe4f9f4a8"
+    },
+    {
+      "name": "Deathly Statuette",
+      "file": "da77ea4457a4d19468d9a37ceddf0862"
+    }
+  ],
+  "Character": {
+    "Experience": {
+      "Wanderer's Advice": "",
+      "Adventurer's Experience": "",
+      "Hero's Wit": "27574244e859cd06ac714983127553d6"
+    },
+    "Ascension": {
+      "Brilliant Diamond Sliver": "e2f87fff62ca9a609948704840464acc",
+      "Brilliant Diamond Fragment": "063ec4411fdf50ecb126f7344e27c414",
+      "Brilliant Diamond Chunk": "d1aa04748270a9a493f78c05a47b9378",
+      "Brilliant Diamond Gemstone": "0b5d7773e88772220a1c91d66ff18978",
+      "Agnidus Agathe Sliver": "d22fb3dac2d24332a1c820da5da914a7",
+      "Agnidus Agathe Fragment": "85698d31c976bdfab13e9600a66b6b3b",
+      "Agnidus Agathe Chunk": "b956d50eaf0cea9dade6e08732ebc975",
+      "Agnidus Agathe Gemstone": "79b8eafad5933355438e03ffa20c09e1",
+      "Varunada Lazurite Sliver": "7ea857691e4887ee58701cec720c97a6",
+      "Varunada Lazurite Fragment": "6683c89da376d89186a124c9dc3b7b77",
+      "Varunada Lazurite Chunk": "4f58d22eb4a40fbfaae8ad958bc909a7",
+      "Varunada Lazurite Gemstone": "259e1feed51a37ee5ff71d7a65175a4f",
+      "Vajrada Amethyst Sliver": "71fe3dd4c10d2b3ccc40fe6a3e279e87",
+      "Vajrada Amethyst Fragment": "4ca8b4230c05051433aa9d060728fc04",
+      "Vajrada Amethyst Chunk": "ec41a2faf3cb09cd53c123839a6a00a3",
+      "Vajrada Amethyst Gemstone": "ef77cca03d7ec4c13f2878d79db51745",
+      "Vayuda Turquoise Sliver": "5d811eb663ea9e24d52272d0a8809bf3",
+      "Vayuda Turquoise Fragment": "61b0676d6f09a884a6ab31bea9f07d05",
+      "Vayuda Turquoise Chunk": "b9e82541d8616ce7dc3b4e384df46097",
+      "Vayuda Turquoise Gemstone": "b959af29ff0bb37824f427d57e459e78",
+      "Shivada Jade Sliver": "84eaf9aaf50c8d78429baa39c009d987",
+      "Shivada Jade Fragment": "028589e4a0a995a00d9b9dcc6050d073",
+      "Shivada Jade Chunk": "0029765b8ebe7eb16a3bdc19ff82bdab",
+      "Shivada Jade Gemstone": "b9d2affee8547dc7da7327a9bde6c026",
+      "Prithiva Topaz Sliver": "5e4e09e2b64b2254b8e74538601389f5",
+      "Prithiva Topaz Fragment": "9b50b3225992c540a5b2ea0bfcbe4d06",
+      "Prithiva Topaz Chunk": "a384e357a83ff6047fa57b3e748430fa",
+      "Prithiva Topaz Gemstone": "6be865234794dd9206db9b41d8067f5c",
+      "Hurricane Seed": "4663f4e28593b6ae033789c5cc5c82b9",
+      "Lightning Prism": "d9e9ba0fc6f740821532aacaccf17525",
+      "Basalt Pillar": "676375920be5dc704482b0b1a6ad87f7",
+      "Hoarfrost Core": "642fd3419d4f615dc28f772f5768d4f4",
+      "Everflame Seed": "3e165fb7bdf5a4cac59e319fcc4a76a1",
+      "Cleansing Heart": "3569446fc5b181ba07482b13835329ef",
+      "Juvenile Jade": "502d1939c71166382c934998f0c18e7d",
+      "Crystalline Bloom": "6b4037d6ba3a7bf524bd7c1c6fd58c66",
+      "Marionette Core": "88fd6f0448504b376c3d663781b5a327",
+      "Perpetual Heart": "96b8228b14ea993dd7b50a664346db89",
+      "Smoldering Pearl": "3f58dfb1fb6cc8bd014e2335cf23c1d2",
+      "Dew of Repudiation": "99c7d99e6e06f790ded79d5fb0730c9b",
+      "Storm Beads": "c83545ea6bfb1a0969f2d58c7a28f44c",
+      "Riftborn Regalia": "a9085b3cc9a690a94c20d2242d463256",
+      "Dragonheir's False Fin": "df4b81b940ba5a79c449954731392d4e"
+    },
+    "Talent": {
+      "Teachings of Freedom": "b40b1c3ebacda491b9a2def3576b57d8",
+      "Guide to Freedom": "62bf04aa9864df2d18b0991ded4d4a9c",
+      "Philosophies of Freedom": "c306e97fca62c58ba93b4478ee979b65",
+      "Teachings of Resistance": "d2be3c3da88c23626dd970ffa5a5af54",
+      "Guide to Resistance": "ddff56676d820b476fd9c383452b60c5",
+      "Philosophies of Resistance": "70219a5c1d17a1bfdaffe5ed869a7aac",
+      "Teachings of Ballad": "76af79c5089cb28c9820d7dab4e6eebb",
+      "Guide to Ballad": "3b9ff572ef6a6d020f79ff3c0d725966",
+      "Philosophies of Ballad": "bdf8aac9e7b3265ac59854007e81bd65",
+      "Teachings of Prosperity": "79b90d1352eec91ab5467d1a96c1f55f",
+      "Guide to Prosperity": "a27c2e8abcd49a94f82a983b161ce93a",
+      "Philosophies of Prosperity": "37349c5881f2a0a626ab2415fd48b52d",
+      "Teachings of Diligence": "3dba806c5fe6002e84d7f929fd9da88d",
+      "Guide to Diligence": "e05bfe9ce8c783130725318c358fd20e",
+      "Philosophies of Diligence": "d32ea9a2dbe0d2a36776a6880f4620ef",
+      "Teachings of Gold": "8c8220ca9dee37571edcaec19c8c7745",
+      "Guide to Gold": "a5cba18dd892e56a8080c5ff64fc84de",
+      "Philosophies of Gold": "f7b7350012374fce94ed7b266c72ba14",
+      "Teachings of Transcience": "6499acf46bdad52db6f260b61045900b",
+      "Guide to Transcience": "626363950803ccde3f6277e5e63c8aad",
+      "Philosophies of Transcience": "1ef4f065694eb1f9adf0d2a074a8cc51",
+      "Teachings of Elegance": "c2c159a4637d3679c710c9f8f2fe050b",
+      "Guide to Elegance": "536d580a164a4cec9cfdda4667258af0",
+      "Philosophies of Elegance": "e29f3079bd5b7d548154db3936e04a9d",
+      "Teachings of Light": "0c769a1f70f17fd9a118512d2169b677",
+      "Guide to Light": "5c3014abd9a31d805364d18922fc45f5",
+      "Philosophies of Light": "120e06f3a45e3e211300264b4e1ffc34",
+      "Crown of Insight": "b68bd53f63e7a8fec20b43bb102a40ba",
+      "Dvalin's Plume": "6f99bcc23d8977524a114182e56ed0f8",
+      "Dvalin's Claw": "d6f08b41e0c2c68f6db234c12a778dc1",
+      "Dvalin's Sigh": "c2abf2b0e32a58e56f78ada97aaaf0f6",
+      "Tail of Boreas": "8bd80e9d01295865ec5d79f0b631ae29",
+      "Ring of Boreas": "53fccb02eaf2632ebb550637acef61f3",
+      "Spirit Locket of Boreas": "ff2100648f2dab0eecd0f93e01f3fad7",
+      "Tusk of Monoceros Caeli": "53fdade3e1eaf1664653b13d049dc03b",
+      "Shard of a Foul Legacy": "269f93454792dbbd900a087dfc347523",
+      "Shadow of the Warrior": "3c129bc317ba333310c787f026bb0332",
+      "Dragon Lord's Crown": "3f45bf613103cf5be9943b56dda29e5c",
+      "Bloodjade Branch": "3a0916d3bd871a21dfbd0fdf86692883",
+      "Gilded Scale": "d16f5707089b543f2c00ff82cb1cc1a7",
+      "Molten Moment": "74dd588b02762824d829220a199cc3d8",
+      "Hellfire Butterfly": "36bcbeac64df28cdcab078353f56f074",
+      "Ashen Heart": "8c096a70ecb7f42a4656a7d92a2584b2",
+      "The Meaning of Aeons": "037beadb5d2f3cedd60512b1d79886e7",
+      "Mudra of the Malefic General": "2fe699e88686a99fe138624ad5fa590d"
+    }
+  },
+  "Weapon": {
+    "Enhancement": {
+      "Enhancement Ore": "",
+      "Fine Enhancement Ore": "",
+      "Mystic Enhancement Ore": "fa92e4edc9f02e82d24471bcf9778590"
+    },
+    "Ascension": {
+      "Tile of Decarabian's Tower": "6d0c3b1170dc49c44348c771ea83a6b0",
+      "Debris of Decarabian's City": "318016bcf97dda5edf9777a401c3d9ec",
+      "Fragment of Decarabian's Epic": "8750a8bffba51f3cb866b820610c991c",
+      "Scattered Piece of Decarabian's Dream": "e45cc236d47453333669dc02be533310",
+      "Boreal Wolf's Milk Tooth": "c02bae0837855bf404b0bfb1a7da16e9",
+      "Boreal Wolf's Cracked Tooth": "e33e14d2ab56d0fdc7c129c92d724447",
+      "Boreal Wolf's Broken Fang": "eca36c1f2a868dc9450d15e18a9dccb0",
+      "Boreal Wolf's Nostalgia": "1516c8da2c857f41ea26061dc62567f4",
+      "Fetters of the Dandelion Gladiator": "1a5e74dd0c84a5fb494f4d2751d0bb60",
+      "Chains of the Dandelion Gladiator": "8bee9baf095f42868049e61c89a770b6",
+      "Shackles of the Dandelion Gladiator": "928545fcdd496b38b26b6eb5fbc4cba4",
+      "Dream of the Dandelion Gladiator": "481ba375fb7e4ac5e02db6e0c82dede7",
+      "Luminous Sands from Guyun": "28c1af66473b9635adab3ea144855c78",
+      "Lustrous Stone from Guyun": "01c4fde8d9cd86ea9bfedcac4445742e",
+      "Relic from Guyun": "e5a3bf2339cc52bb01c1482cca064df2",
+      "Divine Body from Guyun": "9ac3cd7f520cf91893d74dd240439645",
+      "Mist Veiled Lead Elixir": "bfd25d65c37ac7e438911af853db90aa",
+      "Mist Veiled Mercury Elixir": "697b653981c9368c5e4842b05258895f",
+      "Mist Veiled Gold Elixir": "c07a1d402dbd9f2469dcd736492e094c",
+      "Mist Veiled Primo Elixir": "111f4a2c584f4cc3af80030295cfa89c",
+      "Grain of Aerosiderite": "1a6e35894e137cf13d0a58f8762a38a6",
+      "Piece of Aerosiderite": "26bdf26610a845ee13d179e773ee9fdc",
+      "Bit of Aerosiderite": "c00d92afd62315019036f8863b48bce3",
+      "Chunk of Aerosiderite": "1175cbf103fc435fe3ef68f0f9203c56",
+      "Coral Branch of a Distant Sea": "522f9425391e21a48978e4b61cb3dcc2",
+      "Jeweled Branch of a Distant Sea": "b01cdf9fb0d2df34aae376dfad40fb70",
+      "Jade Branch of a Distant Sea": "3ade7e6a417e7c4e842cf41741713134",
+      "Golden Branch of a Distant Sea": "098dcc96bbb59715d9cce7130c4afd6e",
+      "Narukami's Wisdom": "a801d9ff557331c951289e696615de98",
+      "Narukami's Joy": "e0e3788f73f9765820bfc34416f08645",
+      "Narukami's Affection": "a76415a52fc7efafdda9d32c2480330f",
+      "Narukami's Valor": "567b2791faa15c21fff91a2445f9c112",
+      "Mask of the Wicked Lieutenant": "b8417b8042c23eefb92b0127509f5371",
+      "Mask of the Tiger's Bite": "89ab88320f37701864673b3fcc7849de",
+      "Mask of the One-Horned": "2021207df2cfba3048fdc16326c18b76",
+      "Mask of the Kijin": "0313fc8bd17c36aca14b58e4d64b481a"
+    }
+  }
+}

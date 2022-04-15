@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Kamisato Ayato",
+    "code_name": "Ayato",
+    "gender": false,
+    "element": "hydro",
+    "weapon": "sword",
+    "nation": "izanuma",
+    "rarity": 5
+  },
+  {
+    "name": "Shenhe",
+    "code_name": "Shenhe",
+    "gender": true,
+    "element": "cryo",
+    "weapon": "polearm",
+    "nation": "liyue",
+    "rarity": 5
+  },
+  {
+    "name": "Arataki Itto",
+    "code_name": "Itto",
+    "gender": false,
+    "element": "geo",
+    "weapon": "claymore",
+    "nation": "inazuma",
+    "rarity": 5
+  },
+  {
+    "name": "Yae Miko",
+    "code_name": "Yae",
+    "gender": true,
+    "element": "electro",
+    "weapon": "catalyst",
+    "nation": "izanuma",
+    "rarity": 5
+  },
+  {
+    "name": "Sangonomiya Kokomi",
+    "code_name": "Kokomi",
+    "gender": true,
+    "element": "hydro",
+    "weapon": "catalyst",
+    "nation": "inazuma",
+    "rarity": 5
+  },
+  {
+    "name": "Raiden Shogun",
+    "code_name": "Shougun",
+    "gender": true,
+    "element": "electro",
+    "weapon": "polearm",
+    "nation": "inazuma",
+    "rarity": 5
+  },
+  {
+    "name": "Eula",
+    "code_name": "Eula",
+    "gender": true,
+    "element": "cryo",
+    "weapon": "claymore",
+    "nation": "mondstadt",
+    "rarity": 5
+  },
+  {
+    "name": "Yoimiya",
+    "code_name": "Yoimiya",
+    "gender": true,
+    "element": "pyro",
+    "weapon": "bow",
+    "nation": "inazuma",
+    "rarity": 5
+  },
+  {
+    "name": "Kaedehara Kazuha",
+    "code_name": "Kazuha",
+    "gender": false,
+    "element": "anemo",
+    "weapon": "sword",
+    "nation": "inazuma",
+    "rarity": 5
+  },
+  {
+    "name": "Hu Tao",
+    "code_name": "Hutao",
+    "gender": true,
+    "element": "pyro",
+    "weapon": "polearm",
+    "nation": "liyue",
+    "rarity": 5
+  },
+  {
+    "name": "Keqing",
+    "code_name": "Keqing",
+    "gender": true,
+    "element": "electro",
+    "weapon": "sword",
+    "nation": "liyue",
+    "rarity": 5
+  },
+  {
+    "name": "Mona",
+    "code_name": "Mona",
+    "gender": true,
+    "element": "hydro",
+    "weapon": "catalyst",
+    "nation": "mondstadt",
+    "rarity": 5
+  },
+  {
+    "name": "Albedo",
+    "code_name": "Albedo",
+    "gender": false,
+    "element": "geo",
+    "weapon": "sword",
+    "nation": "mondstadt",
+    "rarity": 5
+  },
+  {
+    "name": "Ganyu",
+    "code_name": "Ganyu",
+    "gender": true,
+    "element": "cryo",
+    "weapon": "bow",
+    "nation": "liyue",
+    "rarity": 5
+  },
+  {
+    "name": "Qiqi",
+    "code_name": "Qiqi",
+    "gender": true,
+    "element": "cryo",
+    "weapon": "sword",
+    "nation": "liyue",
+    "rarity": 5
+  },
+  {
+    "name": "Tartaglia",
+    "code_name": "Tartaglia",
+    "gender": false,
+    "element": "hydro",
+    "weapon": "bow",
+    "nation": "snezhnaya",
+    "rarity": 5
+  },
+  {
+    "name": "Zhongli",
+    "code_name": "Zhongli",
+    "gender": false,
+    "element": "geo",
+    "weapon": "polearm",
+    "nation": "liyue",
+    "rarity": 5
+  },
+  {
+    "name": "Klee",
+    "code_name": "Klee",
+    "gender": true,
+    "element": "pyro",
+    "weapon": "catalyst",
+    "nation": "mondstadt",
+    "rarity": 5
+  },
+  {
+    "name": "Xiao",
+    "code_name": "Xiao",
+    "gender": false,
+    "element": "anemo",
+    "weapon": "polearm",
+    "nation": "liyue",
+    "rarity": 5
+  },
+  {
+    "name": "Venti",
+    "code_name": "Venti",
+    "gender": false,
+    "element": "anemo",
+    "weapon": "bow",
+    "nation": "mondstadt",
+    "rarity": 5
+  },
+  {
+    "name": "Diluc",
+    "code_name": "Diluc",
+    "gender": false,
+    "element": "pyro",
+    "weapon": "claymore",
+    "nation": "mondstadt",
+    "rarity": 5
+  },
+  {
+    "name": "Jean",
+    "code_name": "Qin",
+    "gender": true,
+    "element": "anemo",
+    "weapon": "sword",
+    "nation": "mondstadt",
+    "rarity": 5
+  },
+  {
+    "name": "Kamisato Ayaka",
+    "code_name": "Ayaka",
+    "gender": true,
+    "element": "cryo",
+    "weapon": "sword",
+    "nation": "inazuma",
+    "rarity": 5
+  },
+  {
+    "name": "Aloy",
+    "code_name": "Aloy",
+    "gender": false,
+    "element": "cryo",
+    "weapon": "bow",
+    "nation": null,
+    "rarity": 105
+  },
+  {
+    "name": "Yun Jin",
+    "code_name": "Yunjin",
+    "gender": true,
+    "element": "geo",
+    "weapon": "polearm",
+    "nation": "liyue",
+    "rarity": 4
+  },
+  {
+    "name": "Kujou Sara",
+    "code_name": "Sara",
+    "gender": true,
+    "element": "electro",
+    "weapon": "bow",
+    "nation": "inazuma",
+    "rarity": 4
+  },
+  {
+    "name": "Gorou",
+    "code_name": "Gorou",
+    "gender": false,
+    "element": "geo",
+    "weapon": "bow",
+    "nation": "inazuma",
+    "rarity": 4
+  },
+  {
+    "name": "Sayu",
+    "code_name": "Sayu",
+    "gender": true,
+    "element": "anemo",
+    "weapon": "claymore",
+    "nation": "inazuma",
+    "rarity": 4
+  },
+  {
+    "name": "Thoma",
+    "code_name": "Tohma",
+    "gender": false,
+    "element": "pyro",
+    "weapon": "polearm",
+    "nation": "inazuma",
+    "rarity": 4
+  },
+  {
+    "name": "Yanfei",
+    "code_name": "Feiyan",
+    "gender": true,
+    "element": "pyro",
+    "weapon": "catalyst",
+    "nation": "liyue",
+    "rarity": 4
+  },
+  {
+    "name": "Rosaria",
+    "code_name": "Rosaria",
+    "gender": true,
+    "element": "cryo",
+    "weapon": "polearm",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Xinyan",
+    "code_name": "Xinyan",
+    "gender": true,
+    "element": "pyro",
+    "weapon": "claymore",
+    "nation": "liyue",
+    "rarity": 4
+  },
+  {
+    "name": "Sucrose",
+    "code_name": "Sucrose",
+    "gender": true,
+    "element": "anemo",
+    "weapon": "catalyst",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Diona",
+    "code_name": "Diona",
+    "gender": true,
+    "element": "cryo",
+    "weapon": "bow",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Chongyun",
+    "code_name": "Chongyun",
+    "gender": false,
+    "element": "cryo",
+    "weapon": "claymore",
+    "nation": "liyue",
+    "rarity": 4
+  },
+  {
+    "name": "Noelle",
+    "code_name": "Noel",
+    "gender": true,
+    "element": "geo",
+    "weapon": "claymore",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Bennet",
+    "code_name": "Bennett",
+    "gender": false,
+    "element": "pyro",
+    "weapon": "sword",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Fischl",
+    "code_name": "Fischl",
+    "gender": true,
+    "element": "electro",
+    "weapon": "bow",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Ningguang",
+    "code_name": "Ningguang",
+    "gender": true,
+    "element": "geo",
+    "weapon": "catalyst",
+    "nation": "liyue",
+    "rarity": 4
+  },
+  {
+    "name": "Xingqiu",
+    "code_name": "Xingqiu",
+    "gender": false,
+    "element": "hydro",
+    "weapon": "sword",
+    "nation": "liyue",
+    "rarity": 4
+  },
+  {
+    "name": "Beidou",
+    "code_name": "Beidou",
+    "gender": true,
+    "element": "electro",
+    "weapon": "claymore",
+    "nation": "liyue",
+    "rarity": 4
+  },
+  {
+    "name": "Xiangling",
+    "code_name": "Xiangling",
+    "gender": true,
+    "element": "pyro",
+    "weapon": "polearm",
+    "nation": "liyue",
+    "rarity": 4
+  },
+  {
+    "name": "Amber",
+    "code_name": "Ambor",
+    "gender": true,
+    "element": "pyro",
+    "weapon": "bow",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Razor",
+    "code_name": "Razor",
+    "gender": false,
+    "element": "electro",
+    "weapon": "claymore",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Kaeya",
+    "code_name": "Kaeya",
+    "gender": false,
+    "element": "cryo",
+    "weapon": "sword",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Barbara",
+    "code_name": "Barbara",
+    "gender": true,
+    "element": "hydro",
+    "weapon": "catalyst",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Lisa",
+    "code_name": "Lisa",
+    "gender": true,
+    "element": "electro",
+    "weapon": "catalyst",
+    "nation": "mondstadt",
+    "rarity": 4
+  },
+  {
+    "name": "Lumine",
+    "code_name": "PlayerGirl",
+    "gender": true,
+    "element": "electro",
+    "weapon": "sword",
+    "nation": null,
+    "rarity": 5
+  },
+  {
+    "name": "Lumine",
+    "code_name": "PlayerGirl",
+    "gender": true,
+    "element": "geo",
+    "weapon": "sword",
+    "nation": null,
+    "rarity": 5
+  },
+  {
+    "name": "Lumine",
+    "code_name": "PlayerGirl",
+    "gender": true,
+    "element": "anemo",
+    "weapon": "sword",
+    "nation": null,
+    "rarity": 5
+  },
+  {
+    "name": "Aether",
+    "code_name": "PlayerBoy",
+    "gender": false,
+    "element": "electro",
+    "weapon": "sword",
+    "nation": null,
+    "rarity": 5
+  },
+  {
+    "name": "Aether",
+    "code_name": "PlayerBoy",
+    "gender": false,
+    "element": "geo",
+    "weapon": "sword",
+    "nation": null,
+    "rarity": 5
+  },
+  {
+    "name": "Aether",
+    "code_name": "PlayerBoy",
+    "gender": false,
+    "element": "anemo",
+    "weapon": "sword",
+    "nation": null,
+    "rarity": 5
+  }
+]

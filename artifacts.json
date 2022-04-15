@@ -1,0 +1,452 @@
+{
+  "Initiate": [
+    {
+      "key": 10000,
+      "types": ["", "Initiate's Feather", "", "Initiate's Flower"]
+    }
+  ],
+  "Adventurer": [
+    {
+      "key": 10010,
+      "types": [
+        "Adventurer's Flower",
+        "Adventurer's Tail Feather",
+        "Adventurer's Pocket Watch",
+        "Adventurer's Golden Goblet",
+        "Adventurer's Bandana"
+      ]
+    }
+  ],
+  "Lucky Dog": [
+    {
+      "key": 10011,
+      "types": [
+        "Lucky Dog's Clover",
+        "Lucky Dog's Eagle Feather",
+        "Lucky Dog's Hourglass",
+        "Lucky Dog's Goblet",
+        "Lucky Dog's Silver Circlet"
+      ]
+    }
+  ],
+  "Traveling Doctor": [
+    {
+      "key": 10013,
+      "types": [
+        "Traveling Doctor's Silver Lotus",
+        "Traveling Doctor's Owl Feather",
+        "Traveling Doctor's Pocket Watch",
+        "Traveling Doctor's Medicine Pot",
+        "Traveling Doctor's Handkerchief"
+      ]
+    }
+  ],
+  "Resolution of Sojourner": [
+    {
+      "key": 10001,
+      "types": [
+        "Heart of Comradeship",
+        "Feather of Homecoming",
+        "Sundial of the Sojourner",
+        "Goblet of the Sojourner",
+        "Crown of Parting"
+      ]
+    }
+  ],
+  "Tiny Miracle": [
+    {
+      "key": 10004,
+      "types": [
+        "Tiny Miracle's Flower",
+        "Tiny Miracle's Feather",
+        "Tiny Miracle's Hourglass",
+        "Tiny Miracle's Goblet",
+        "Tiny Miracle's Earrings"
+      ]
+    }
+  ],
+  "Berserker": [
+    {
+      "key": 10005,
+      "types": [
+        "Berserker's Rose",
+        "Berserker's Indigo Feather",
+        "Berserker's Timepiece",
+        "Berserker's Bone Goblet",
+        "Berserker's Battle Mask"
+      ]
+    }
+  ],
+  "Instructor": [
+    {
+      "key": 10007,
+      "types": [
+        "Instructor's Brooch",
+        "Instructor's Feather Accessory",
+        "Instructor's Pocket Watch",
+        "Instructor's Tea Cup",
+        "Instructor's Cap"
+      ]
+    }
+  ],
+  "The Exile": [
+    {
+      "key": 10009,
+      "types": [
+        "Exile's Flower",
+        "Exile's Feather",
+        "Exile's Pocket Watch",
+        "Exile's Goblet",
+        "Exile's Circlet"
+      ]
+    }
+  ],
+  "Defender's Will": [
+    {
+      "key": 10003,
+      "types": [
+        "Guardian's Flower",
+        "Guardian's Sigil",
+        "Guardian's Clock",
+        "Guardian's Vessel",
+        "Guardian's Band"
+      ]
+    }
+  ],
+  "Brave Heart": [
+    {
+      "key": 10002,
+      "types": [
+        "Medal of the Brave",
+        "Prospect of the Brave",
+        "Fortitude of the Brave",
+        "Outset of the Brave",
+        "Crown of the Brave"
+      ]
+    }
+  ],
+  "Martial Artist": [
+    {
+      "key": 10006,
+      "types": [
+        "Martial Artist's Red Flower",
+        "Martial Artist's Feather Accessory",
+        "Martial Artist's Water Hourglass",
+        "Martial Artist's Wine Cup",
+        "Martial Artist's Bandana"
+      ]
+    }
+  ],
+  "Gambler": [
+    {
+      "key": 10008,
+      "types": [
+        "Gambler's Brooch",
+        "Gambler's Feather Accessory",
+        "Gambler's Pocket Watch",
+        "Gambler's Dice Cup",
+        "Gambler's Earrings"
+      ]
+    }
+  ],
+  "Scholar": [
+    {
+      "key": 10012,
+      "types": [
+        "Scholar's Bookmark",
+        "Scholar's Quill Pen",
+        "Scholar's Clock",
+        "Scholar's Ink Cup",
+        "Scholar's Lens"
+      ]
+    }
+  ],
+  "Prayers of Illumination": [
+    {
+      "key": 15012,
+      "types": ["", "", "Tiara of Flame"]
+    }
+  ],
+  "Prayers of Destiny": [
+    {
+      "key": 15010,
+      "types": ["", "", "Tiara of Torrents"]
+    }
+  ],
+  "Prayers of Wisdom": [
+    {
+      "key": 15011,
+      "types": ["", "", "Tiara of Thunder"]
+    }
+  ],
+  "Prayers to Springtime": [
+    {
+      "key": 15013,
+      "types": ["", "", "Tiara of Frost"]
+    }
+  ],
+  "Gladiator's Finale": [
+    {
+      "key": 15001,
+      "types": [
+        "Gladiator's Nostalgia",
+        "Gladiator's Destiny",
+        "Gladiator's Longing",
+        "Gladiator's Intoxication",
+        "Gladiator's Triumphus"
+      ]
+    }
+  ],
+  "Wanderer's Troupe": [
+    {
+      "key": 15003,
+      "types": [
+        "Troupe's Dawnlight",
+        "Bard's Arrow Feather",
+        "Concert's Final Hour",
+        "Wanderer's String-Kettle",
+        "Conductor's Top Hat"
+      ]
+    }
+  ],
+  "Thundersoother": [
+    {
+      "key": 14002,
+      "types": [
+        "Thundersoother's Heart",
+        "Thundersoother's Plume",
+        "Hour of Soothing Thunder",
+        "Thundersoother's Goblet",
+        "Thundersoother's Diadem"
+      ]
+    }
+  ],
+  "Thundering Fury": [
+    {
+      "key": 15005,
+      "types": [
+        "Thunderbird's Mercy",
+        "Survivor of Catastrophe",
+        "Hourglass of Thunder",
+        "Omen of Thunderstorm",
+        "Thunder Summoner's Crown"
+      ]
+    }
+  ],
+  "Maiden Beloved": [
+    {
+      "key": 14004,
+      "types": [
+        "Maiden's Distant Love",
+        "Maiden's Heart-stricken Infatuation",
+        "Maiden's Passing Youth",
+        "Maiden's Fleetring Leisure",
+        "Maiden's Fading Beauty"
+      ]
+    }
+  ],
+  "Viridescent Venerer": [
+    {
+      "key": 15002,
+      "types": [
+        "In Remembrance of Viridescent Fields",
+        "Viridescent Arrow Feather",
+        "Viridescent Venerer's Determination",
+        "Viridescent Venerer's Vessel",
+        "Viridescent Venerer's Diadem"
+      ]
+    }
+  ],
+  "Crimson Witch of Flames": [
+    {
+      "key": 15006,
+      "types": [
+        "Witch's Flower of Blaze",
+        "Witch's Ever-Burning Plume",
+        "Witch's End Time",
+        "Witch's Heart of Flames",
+        "Witch's Scorching Hat"
+      ]
+    }
+  ],
+  "Lavawalker": [
+    {
+      "key": 14003,
+      "types": [
+        "Lavawalker's Resolution",
+        "Lavawalker's Salvation",
+        "Lavawalker's Torment",
+        "Lavawalker's Epiphany",
+        "Lavawalker's Wisdom"
+      ]
+    }
+  ],
+  "Noblesse Oblige": [
+    {
+      "key": 15007,
+      "types": [
+        "Royal Flora",
+        "Royal Plume",
+        "Royal Pocket Watch",
+        "Royal Silver Urn",
+        "Royal Masque"
+      ]
+    }
+  ],
+  "Bloodstained Chivalry": [
+    {
+      "key": 15008,
+      "types": [
+        "Bloodstained Flower of Iron",
+        "Bloodstained Black Plume",
+        "Bloodstained Final Hour",
+        "Bloodstained Chevalier's Goblet",
+        "Bloodstained Iron Mask"
+      ]
+    }
+  ],
+  "Archaic Petra": [
+    {
+      "key": 15014,
+      "types": [
+        "Flower of Creviced Cliff",
+        "Feather of Jagged Peaks",
+        "Sundial of Enduring Jade",
+        "Goblet of Chiseled Crag",
+        "Mask of Solitude Basalt"
+      ]
+    }
+  ],
+  "Retracing Bolide": [
+    {
+      "key": 15015,
+      "types": [
+        "Summer Night's Bloom",
+        "Summer Night's Finale",
+        "Summer Night's Moment",
+        "Summer Night's Waterballoon",
+        "Summer Night's Mask"
+      ]
+    }
+  ],
+  "Blizzard Strayer": [
+    {
+      "key": 14001,
+      "types": [
+        "Snowswept Memory",
+        "Icebreaker's Resolve",
+        "Frozen Homeland's Demise",
+        "Frost-Weaved Dignity",
+        "Broken Rime's Echo"
+      ]
+    }
+  ],
+  "Heart of Depth": [
+    {
+      "key": 15016,
+      "types": [
+        "Gilded Corsage",
+        "Gust of Nostalgia",
+        "Copper Compass",
+        "Goblet of Thundering Deep",
+        "Wine-Stained Tricorne"
+      ]
+    }
+  ],
+  "Tenacity of the Millelith": [
+    {
+      "key": 15017,
+      "types": [
+        "Flower of Accolades",
+        "Ceremonial War-Plume",
+        "Orichalceous Time-Dial",
+        "Noble's Pledging Vessel",
+        "General's Ancient Helm"
+      ]
+    }
+  ],
+  "Pale Flame": [
+    {
+      "key": 15018,
+      "types": [
+        "Stainless Bloom",
+        "Wise Doctor's Pinion",
+        "Moment of Cessation",
+        "Surpassing Cup",
+        "Mocking Mask"
+      ]
+    }
+  ],
+  "Shimenawa's Reminiscence": [
+    {
+      "key": 15019,
+      "types": [
+        "Entangling Bloom",
+        "Shaft of Remembrance",
+        "Morning Dew's Moment",
+        "Hopeful Heart",
+        "Capricious Visage"
+      ]
+    }
+  ],
+  "Emblem of Severed Fate": [
+    {
+      "key": 15020,
+      "types": [
+        "Magnificent Tsuba",
+        "Sundered Feather",
+        "Storm Cage",
+        "Scarlet Vessel",
+        "Ornate Kabuto"
+      ]
+    }
+  ],
+  "Husk of Opulent Dreams": [
+    {
+      "key": 15021,
+      "types": [
+        "Bloom Times",
+        "Plume of Luxury",
+        "Song of Life",
+        "Calabash of Awakening",
+        "Skeletal Hat"
+      ]
+    }
+  ],
+  "Ocean Hued Clam": [
+    {
+      "key": 15022,
+      "types": [
+        "Sea-Dyed Blossom",
+        "Deep Palace's Plume",
+        "Cowry of Parting",
+        "Pearl Cage",
+        "Crown of Watatsumi"
+      ]
+    }
+  ],
+  "Vermillion Hereafter": [
+    {
+      "key": 15023,
+      "types": [
+        "Flowering Life",
+        "Feather of Nascent Light",
+        "Solar Relic",
+        "Moment of the Pact",
+        "Thundering Poise"
+      ]
+    }
+  ],
+  "Echoes of an Offering": [
+    {
+      "key": 15024,
+      "types": [
+        "Soulscent Bloom",
+        "Jade Leaf",
+        "Symbol of Felicitation",
+        "Chalice of the Font",
+        "Flowing Rings"
+      ]
+    }
+  ]
+}
